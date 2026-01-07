@@ -31,3 +31,6 @@ build/
 
 ### VS Code ###
 .vscode/
+.DS_Store
+ai/__pycache__
+ai/embeddings
